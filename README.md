@@ -1,26 +1,59 @@
-[![React-Bootstrap-with-Material-Design](https://mdbootstrap.com/img/Marketing/free/main/react/mdb-react-free.jpg)](https://mdbootstrap.com/docs/react/)
+<p align="center">
+  <a href="https://mdbootstrap.com/docs/react/"><b>Material Design for Bootstrap 4</b></a>
+</p>
 
-# React Bootstrap with Material Design
+<p align="center">
+  <a href="https://mdbootstrap.com/" target="_blank">
+    <img width="700" src="https://mdbootstrap.com/img/Marketing/products/react/mdb-free.jpg" alt="logo">
+  </a>
+</p>
 
-[![npm version](https://badge.fury.io/js/mdbreact.svg)](https://badge.fury.io/js/mdbreact)
 
-Built with React and Bootstrap 4. Absolutely no jQuery.
+<p align="center">
+  <a href="https://npmcharts.com/compare/mdbreact?minimal=true"><img src="https://img.shields.io/npm/dm/mdbreact.svg" alt="Downloads"></a>
+  <a href="https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design/blob/master/license.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+  <a href="https://badge.fury.io/js/angular-bootstrap-md"><img src="https://badge.fury.io/js/mdbreact.svg" alt="npm"></a>
+  <a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/react/&hashtags=react,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
+</p>
 
-400+ material UI elements, 600+ material icons, 74 CSS animations, SASS files and many more.
+<p align="center">
+Built with <b>React and Bootstrap 4</b>. Absolutely <b>no jQuery</b>.
+</p>
 
+<p align="center">
+<b>400+</b> material UI elements, <b>600+</b> material icons, <b>74</b> CSS animations, SASS files and many more.
+</p>
+  
+<p align="center">
 All fully responsive. All compatible with different browsers.
+</p>
 
 ---
+
+## Table of Contents
+
+* [Other Technologies](#other-technologies) 
+* [Demo](#demo)
+* [Version](#version)
+* [Quick start](#quick-start)
+* [Available commands](#available-commands)
+* [How to install MDB via npm](#how-to-install-mdb-via-npm)
+* [Supported Browsers](#supported-browsers)
+* [Contributing](#contributing)
+* [Documentation](#documentation)
+* [Highlights](#highlights)
+* [Social Media](#social-media)
+* [Useful Links](#useful-links)
+
+
+# Other Technologies
+
+[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-angular.png"/>](https://mdbootstrap.com/docs/angular/)[<img width="100" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb.png"/>](https://mdbootstrap.com/dosc/jquery)[<img width="115" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-vue.png"/>](https://mdbootstrap.com/docs/vue/)
+
 
 # Demo:
 
 **Main demo**: https://mdbootstrap.com/docs/react/components/demo/
-
-# Live Preview
-
-[![Material Design for Bootstrap](https://mdbootstrap.com/img/Mockups/Lightbox/Original/img%20%2888%29.jpg)](https://mdbootstrap.com/angular/)
-[![Material Design for Bootstrap](https://mdbootstrap.com/img/Mockups/Lightbox/Original/img%20%2876%29.jpg)](https://mdbootstrap.com/angular/)
-[![Material Design for Bootstrap](https://mdbootstrap.com/img/Mockups/Lightbox/Original/img%20%2873%29.jpg)](https://mdbootstrap.com/angular/)
 
 # Version:
 
@@ -31,7 +64,8 @@ All fully responsive. All compatible with different browsers.
 
 - Clone following repo:
 
-```javascript
+```
+javascript
 git clone https://github.com/mdbootstrap/react-bootstrap-with-material-design .
 ```
 
@@ -57,7 +91,8 @@ Now you can navigate to our documentation (http://mdbootstrap.com/docs/react/), 
 - `npm install --save mdbreact`
 - Import style files into the src/index.js before the App.js file:
 
-```javascript
+```
+javascript
 import "font-awesome/css/font-awesome.min.css";
 import "bootstrap-css-only/css/bootstrap.min.css";
 import "mdbreact/dist/css/mdb.css";
@@ -65,17 +100,47 @@ import "mdbreact/dist/css/mdb.css";
 
 ### Run server
 
-```bash
+```
+bash
 npm start
 ```
+
+# Supported browsers
+
+MDBootstrap supports the **latest, stable releases** of all major browsers and platforms.
+
+Alternative browsers which use the latest version of WebKit, Blink, or Gecko, whether directly or via the platform’s web view API, are not explicitly supported. However, MDBootstrap should (in most cases) display and function correctly in these browsers as well.
+
+### Mobile devices
+
+Generally speaking, MDBootstrap supports the latest versions of each major platform’s default browsers. Note that proxy browsers (such as Opera Mini, Opera Mobile’s Turbo mode, UC Browser Mini, Amazon Silk) are not supported.
+
+|  | Chrome  | Firefox  | Safari  | Android Browser & WebView  |                  Microsoft Edge                      |
+|:--------------------:|:---------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|
+| Android | Supported | Supported | N/A | Android v5.0+ supported | Supported |
+| iOS | Supported | Supported | Supported | N/A | Supported |
+| Windows 10 Mobile | N/A | N/A | N/A | N/A | Supported |
+
+### Desktop browsers
+
+Similarly, the latest versions of most desktop browsers are supported.
+
+|  | Chrome  | Firefox  | Internet Explorer  |  Microsoft Edge  |              Opera                  |      Safari      |
+|:--------------------:|:-----------------------------:|:------------------------------:|:------------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|:------------------------------:|
+| Mac | Supported | Supported | N/A | N/A | Supported | Supported |
+| Windows  | Supported | Supported | N/A | Supported | Supported | Not supported |
+
+# Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/mdbootstrap/bootstrap-material-design/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+# Documentation:
+
+**Huge, detailed documentation avilable online on**: http://mdbootstrap.com/docs/react/
 
 # PRO version:
 
 **React Bootstrap with Material Design PRO (from $79)**: https://mdbootstrap.com/products/react-ui-kit/
-
-## Documentation:
-
-**Huge, detailed documentation avilable online on**: http://mdbootstrap.com/docs/react/
 
 # Highlights:
 
@@ -109,8 +174,14 @@ Thought-out .scss files come in a compile-ready form.
 **Flexbox**
 Full support of Flexbox layout system lets you forget about alignment issues.
 
-A big **thank you to all our users** who are working with us to improve the software. We wouldn't be where we are without you.
+### Support MDB developers
 
+- Star our GitHub repo
+- Create pull requests, submit bugs, suggest new features or documentation updates
+- Follow us on [Twitter](https://twitter.com/mdbootstrap)
+- Like our page on [Facebook](https://www.facebook.com/mdbootstrap)
+
+A big ❤️ **thank you to all our users** ❤️ who are working with us to improve the software. We wouldn't be where we are without you. 
 # Useful Links:
 
 Getting started: https://mdbootstrap.com/docs/react/getting-started/download/
