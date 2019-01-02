@@ -39,7 +39,6 @@ All fully responsive. All compatible with different browsers.
 * [Available commands](#available-commands)
 * [How to install MDB via npm](#how-to-install-mdb-via-npm)
 * [Supported Browsers](#supported-browsers)
-* [Contributing](#contributing)
 * [Documentation](#documentation)
 * [Highlights](#highlights)
 * [Social Media](#social-media)
@@ -129,10 +128,6 @@ Similarly, the latest versions of most desktop browsers are supported.
 |:--------------------:|:-----------------------------:|:------------------------------:|:------------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|:------------------------------:|
 | Mac | Supported | Supported | N/A | N/A | Supported | Supported |
 | Windows  | Supported | Supported | N/A | Supported | Supported | Not supported |
-
-# Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/mdbootstrap/bootstrap-material-design/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 # Documentation:
 
