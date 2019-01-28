@@ -1,20 +1,10 @@
 <p align="center">
-  <a href="https://mdbootstrap.com/docs/react/"><b>Material Design for Bootstrap 4</b></a>
-</p>
-
-<p align="center">
-  <a href="https://mdbootstrap.com/" target="_blank">
-    <img width="700" src="https://mdbootstrap.com/img/Marketing/products/react/mdb-free.jpg" alt="logo">
+  <a href="http://mdbootstrap.com/docs/react/">
+    <img width="500" src="https://mdbootstrap.com/img/Marketing/general/logo/huge/mdb-react.png">
   </a>
 </p>
 
-
-<p align="center">
-  <a href="https://npmcharts.com/compare/mdbreact?minimal=true"><img src="https://img.shields.io/npm/dm/mdbreact.svg" alt="Downloads"></a>
-  <a href="https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design/blob/master/license.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
-  <a href="https://badge.fury.io/js/angular-bootstrap-md"><img src="https://badge.fury.io/js/mdbreact.svg" alt="npm"></a>
-  <a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/react/&hashtags=react,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
-</p>
+<h1 align="center">React Bootstrap with Material Design</h1>
 
 <p align="center">
 Built with <b>React and Bootstrap 4</b>. Absolutely <b>no jQuery</b>.
@@ -26,6 +16,19 @@ Built with <b>React and Bootstrap 4</b>. Absolutely <b>no jQuery</b>.
   
 <p align="center">
 All fully responsive. All compatible with different browsers.
+</p>
+
+<p align="center">
+  <a href="https://npmcharts.com/compare/mdbreact?minimal=true"><img src="https://img.shields.io/npm/dm/mdbreact.svg" alt="Downloads"></a>
+  <a href="https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design/blob/master/license.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+  <a href="https://badge.fury.io/js/angular-bootstrap-md"><img src="https://badge.fury.io/js/mdbreact.svg" alt="npm"></a>
+  <a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/react/&hashtags=react,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
+</p>
+
+<p align="center">
+  <a href="https://mdbootstrap.com/" target="_blank">
+    <img width="700" src="https://mdbootstrap.com/img/Marketing/products/react/mdb-free.jpg" alt="logo">
+  </a>
 </p>
 
 ---
@@ -40,24 +43,24 @@ All fully responsive. All compatible with different browsers.
 * [How to install MDB via npm](#how-to-install-mdb-via-npm)
 * [Supported Browsers](#supported-browsers)
 * [Documentation](#documentation)
+* [Pro version](#pro-version)
 * [Highlights](#highlights)
-* [Social Media](#social-media)
 * [Useful Links](#useful-links)
-
+* [Social Media](#social-media)
 
 # Other Technologies
 
-[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-angular.png"/>](https://mdbootstrap.com/docs/angular/)[<img width="100" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb.png"/>](https://mdbootstrap.com/dosc/jquery)[<img width="115" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-vue.png"/>](https://mdbootstrap.com/docs/vue/)
+[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/jquery.png"/>](https://mdbootstrap.com/docs/jquery/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/docs/react/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/docs/vue/)
 
 
 # Demo:
 
-**Main demo**: https://mdbootstrap.com/docs/react/components/demo/
+[Main demo](https://mdbootstrap.com/docs/react/components/demo/)
 
 # Version:
 
-- MDBReact 4.8.6
-- React 16.6.0
+- MDBReact 4.9.0
+- React 16.7.0
 
 # Quick start
 
@@ -74,7 +77,7 @@ note "." at the end. It will clone files directly into current folder.
 - Run `npm start`
 - Voilà! Open browser and visit http://localhost:3000
 
-Now you can navigate to our documentation (http://mdbootstrap.com/docs/react/), pick any component and place within your project.
+Now you can navigate to [our documentation](http://mdbootstrap.com/docs/react/), pick any component and place within your project.
 
 # Available commands
 
@@ -114,7 +117,7 @@ Alternative browsers which use the latest version of WebKit, Blink, or Gecko, wh
 
 Generally speaking, MDBootstrap supports the latest versions of each major platform’s default browsers. Note that proxy browsers (such as Opera Mini, Opera Mobile’s Turbo mode, UC Browser Mini, Amazon Silk) are not supported.
 
-|  | Chrome  | Firefox  | Safari  | Android Browser & WebView  |                  Microsoft Edge                      |
+|  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox  |  [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari   | Android Browser & WebView  |                  [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br> Miscrosoft Edge                      |
 |:--------------------:|:---------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|
 | Android | Supported | Supported | N/A | Android v5.0+ supported | Supported |
 | iOS | Supported | Supported | Supported | N/A | Supported |
@@ -124,18 +127,19 @@ Generally speaking, MDBootstrap supports the latest versions of each major platf
 
 Similarly, the latest versions of most desktop browsers are supported.
 
-|  | Chrome  | Firefox  | Internet Explorer  |  Microsoft Edge  |              Opera                  |      Safari      |
+|  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome  |  [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br> Internet Explorer  |  [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="Internet Explorer / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br> Edge  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Opera                  |       [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari       |
 |:--------------------:|:-----------------------------:|:------------------------------:|:------------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|:------------------------------:|
 | Mac | Supported | Supported | N/A | N/A | Supported | Supported |
 | Windows  | Supported | Supported | N/A | Supported | Supported | Not supported |
 
+
 # Documentation:
 
-**Huge, detailed documentation avilable online on**: http://mdbootstrap.com/docs/react/
+[Huge, detailed documentation avilable online]http://mdbootstrap.com/docs/react/
 
 # PRO version:
 
-**React Bootstrap with Material Design PRO (from $79)**: https://mdbootstrap.com/products/react-ui-kit/
+[React Bootstrap with Material Design PRO](https://mdbootstrap.com/products/react-ui-kit/)
 
 # Highlights:
 
@@ -177,28 +181,29 @@ Full support of Flexbox layout system lets you forget about alignment issues.
 - Like our page on [Facebook](https://www.facebook.com/mdbootstrap)
 
 A big ❤️ **thank you to all our users** ❤️ who are working with us to improve the software. We wouldn't be where we are without you. 
+
 # Useful Links:
 
-Getting started: https://mdbootstrap.com/docs/react/getting-started/download/
+[Getting started](https://mdbootstrap.com/docs/react/getting-started/download/)
 
-5 min quick start: https://mdbootstrap.com/docs/react/getting-started/quick-start/
+[Quick Start](https://mdbootstrap.com/docs/react/getting-started/quick-start/)
 
-Changelog: https://mdbootstrap.com/docs/react/changelog/
+[Changelog](https://mdbootstrap.com/docs/react/changelog/)
 
 # Social Media:
 
-Twitter: https://twitter.com/MDBootstrap
+[Twitter](https://twitter.com/MDBootstrap)
 
-Facebook: https://www.facebook.com/mdbootstrap
+[Facebook](https://www.facebook.com/mdbootstrap)
 
-Pinterest: https://pl.pinterest.com/mdbootstrap
+[Pinterest](https://pl.pinterest.com/mdbootstrap)
 
-Google+: https://plus.google.com/u/0/b/107863090883699620484/+Mdbootstrap/posts
+[Google+](https://plus.google.com/u/0/b/107863090883699620484/+Mdbootstrap/posts)
 
-Dribbble: https://dribbble.com/mdbootstrap
+[Dribbble](https://dribbble.com/mdbootstrap)
 
-LinkedIn: https://www.linkedin.com/company/material-design-for-bootstrap
+[LinkedIn](https://www.linkedin.com/company/material-design-for-bootstrap)
 
 ## Contact:
 
-office@mdbootstrap.com
+contact@mdbootstrap.com
