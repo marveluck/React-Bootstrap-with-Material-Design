@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mdbootstrap.com/products/jquery-ui-kit/">
-    <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-react-r.png">
+    <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-jquery-r.png">
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://mdbootstrap.com/products/jquery-ui-kit/" target="_blank">
-    <img width="700" src="https://mdbootstrap.com/wp-content/uploads/2018/01/mdb-pro.jpg" alt="logo">
+    <img width="600" src="https://mdbootstrap.com/img/Marketing/products/jquery/templates/admin.jpg" alt="logo">
   </a>
 </p>
 
