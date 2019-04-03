@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://mdbootstrap.com/docs/react/">
-    <img width="500" src="https://mdbootstrap.com/img/Marketing/general/logo/huge/mdb-react.png">
+    <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-react-r.png">
   </a>
 </p>
 
@@ -48,7 +48,7 @@ All fully responsive. All compatible with different browsers.
 * [Useful Links](#useful-links)
 * [Social Media](#social-media)
 
-# Other Technologies
+# Other Versions
 
 [<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/jquery.png"/>](https://mdbootstrap.com/docs/jquery/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/docs/react/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/docs/vue/)
 
@@ -59,8 +59,8 @@ All fully responsive. All compatible with different browsers.
 
 # Version:
 
-- MDBReact 4.9.0
-- React 16.7.0
+- MDBReact 4.12.0
+- React 16.8.1
 
 # Quick start
 
@@ -121,7 +121,7 @@ Generally speaking, MDBootstrap supports the latest versions of each major platf
 |:--------------------:|:---------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|
 | Android | Supported | Supported | N/A | Android v5.0+ supported | Supported |
 | iOS | Supported | Supported | Supported | N/A | Supported |
-| Windows 10 Mobile | N/A | N/A | N/A | N/A | Supported |
+| ⠀Windows 10 Mobile⠀⠀| N/A | N/A | N/A | N/A | Supported |
 
 ### Desktop browsers
 
@@ -129,8 +129,8 @@ Similarly, the latest versions of most desktop browsers are supported.
 
 |  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome  |  [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br> Internet Explorer  |  [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="Internet Explorer / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br> Edge  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Opera                  |       [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari       |
 |:--------------------:|:-----------------------------:|:------------------------------:|:------------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|:------------------------------:|
-| Mac | Supported | Supported | N/A | N/A | Supported | Supported |
-| Windows  | Supported | Supported | N/A | Supported | Supported | Not supported |
+|⠀Mac⠀|⠀Supported⠀|⠀Supported⠀|⠀N/A⠀|⠀N/A⠀|⠀Supported⠀|⠀Supported⠀|
+|⠀Windows⠀|⠀Supported⠀|⠀Supported⠀|⠀N/A⠀|⠀Supported⠀|⠀Supported⠀|Not supported|
 
 
 # Documentation:
@@ -197,8 +197,6 @@ A big ❤️ **thank you to all our users** ❤️ who are working with us to im
 [Facebook](https://www.facebook.com/mdbootstrap)
 
 [Pinterest](https://pl.pinterest.com/mdbootstrap)
-
-[Google+](https://plus.google.com/u/0/b/107863090883699620484/+Mdbootstrap/posts)
 
 [Dribbble](https://dribbble.com/mdbootstrap)
 
