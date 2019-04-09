@@ -7,7 +7,7 @@
 <h1 align="center">React Bootstrap with Material Design PRO</h1>
 
 <p align="center">
-  ✔️ An impressive collection of ready to use, stunning Material Design components.
+  An impressive collection of ready to use, stunning Material Design components.
 </p>
 <p align="center">
   Save huge amounts of time on website/application creation using our predefined sections and templates.
