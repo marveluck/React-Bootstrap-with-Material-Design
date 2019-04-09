@@ -46,6 +46,20 @@ ________
 
 ________
 
+# Table of Content
+
+* [Useful Links](#useful-links)
+* [PRO Technologies](#pro-technologies)
+* [Quick Start](#quick-start)
+* [Existing project](#existing-project)
+* [Tutorials](#tutorials)
+* [Documentation](#documentation)
+* [Supported Browsers](#supported-browsers)
+* [Social Media](#social-media)
+
+
+# Useful Links
+
 * 5 min Quick Start - https://www.youtube.com/watch?v=ccrJUi39ElQ
 * ChangeLog - https://mdbootstrap.com/docs/react/changelog/
 * Documentation - https://mdbootstrap.com/docs/react/
@@ -126,7 +140,7 @@ $ yarn start
 
 **Step 6**: Copy our component's code to your project and compose your website. And yes, it's that simple!
 
-## Existing project
+# Existing project
 
 **Step 1**:  Create new react project using the command:
 
@@ -191,9 +205,16 @@ $ npm run start
 $ yarn start
 ```
 
+# Tutorials
+
  - [Written Tutorial](https://mdbootstrap.com/docs/react/getting-started/quick-start/)
 
  - [Video Tutorial](https://www.youtube.com/watch?v=cXTThxoywNQ&t=9s)
+ 
+ 
+# Documentation
+
+ - [Huge, detailed documentation available online](https://mdbootstrap.com/docs/react/
 
 # Supported browsers
 
@@ -221,7 +242,6 @@ Similarly, the latest versions of most desktop browsers are supported.
 |Windows|⠀Supported⠀|⠀Supported⠀|⠀N/A⠀|⠀Supported|⠀Supported⠀|⠀Not supported⠀|
 
 
-
 ### Support MDB developers
 - Star our GitHub repo
 - Create pull requests, submit bugs, suggest new features or documentation updates
@@ -229,18 +249,6 @@ Similarly, the latest versions of most desktop browsers are supported.
 - Like our page on [Facebook](https://www.facebook.com/mdbootstrap)
 
 A big ❤️ **thank you to all our users** ❤️ who are working with us to improve the software. We wouldn't be where we are without you. 
-
-________
-
-# Useful Links
-
-- [Getting Started](https://mdbootstrap.com/docs/react/getting-started/download/)
-
-- [5 min quick start viedo](https://www.youtube.com/watch?v=ozXDtSi5ByM)
-
-- [Freebies](https://mdbootstrap.com/freebies/)
-
-- [Premium Templates](https://mdbootstrap.com/templates/)
 
 ________
 
