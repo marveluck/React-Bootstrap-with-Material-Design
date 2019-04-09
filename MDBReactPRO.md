@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://mdbootstrap.com/products/jquery-ui-kit/">
-    <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-jquery-r.png">
+  <a href="https://mdbootstrap.com/products/react-ui-kit/">
+    <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-react-r.png">
   </a>
 </p>
 
-<h1 align="center">Material Design for Bootstrap PRO</h1>
+<h1 align="center">React Bootstrap with Material Design PRO</h1>
 
 <p align="center">
   ✔️<b>4500+</b> Premium Components - An impressive collection of ready to use, stunning Material Design components.
@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="https://mdbootstrap.com/products/jquery-ui-kit/" target="_blank">
-    <img width="600" src="https://mdbootstrap.com/img/Marketing/products/jquery/templates/admin.jpg" alt="logo">
+  <a href="https://mdbootstrap.com/products/react-ui-kit/" target="_blank">
+    <img width="600" src="https://mdbootstrap.com/img/Marketing/products/react/mdb-pro.jpg" alt="logo">
   </a>
 </p>
 
@@ -59,11 +59,76 @@ ________
 
 # Quick Start
 
- - [Written Tutorial](https://mdbootstrap.com/education/bootstrap/quick-start/)
+ - [Written Tutorial](https://mdbootstrap.com/docs/react/getting-started/quick-start/)
 
  - [Video Tutorial](https://www.youtube.com/watch?v=cXTThxoywNQ&t=9s)
+ 
+Before you use MDB React make sure you have installed Create React App package. This package contains development environment that will speed up the development process. Node 6 or higher is required.
 
+To install Create React App, in your command line type:
 
+```
+$ npm install -g create-react-app
+
+$ yarn global add create-react-app
+```
+## New project:
+
+**Step 1**: If you haven't downloaded MDB React package yet, go to <a href="https://mdbootstrap.com/docs/react/getting-started/download/">Getting Started</a> page and download it now.
+
+**Step 2**: Unzip downloaded package and open your unpacked directory.
+
+**Step for PRO version**: If You want to install dependency from our GitLab repository, please open package.json file and copy the link to our repo from the commented line ("//": "git+https://oauth2:..."). Then replace the direct path to /.mdbreact.tgz in dependencies with the copied link. Don't forget to replace <YOUR_TOKEN_GOES_HERE> part with your private gitlab access token.
+
+It should look like: `"mdbreact": "git+https://oauth2:YOUR_TOKEN_GOES_HERE@git.mdbootstrap.com/mdb/react/re-pro.git"`
+
+**To install the dependencies**, depending on your node module manager, run:
+
+```
+$ npm install
+
+$ yarn
+```
+
+**Step 3**: When you've downloaded everything, it's time to run the second command wich will serve your app on localhost:
+
+```
+$ npm start
+
+$ yarn start
+```
+
+**Step 4**: When you check what is served at your port 3000 you should see our demo app. Explore it and choose components you like. On every page you will find link to our official documentation of the component. Check it out!
+
+<p align="center">
+  <a href="https://mdbootstrap.com/docs/react/getting-started/quick-start/">
+    <img width="400" src="https://mdbootstrap.com/img/React/final2.jpg">
+  </a>
+</p>
+
+**Step 5**: If You want to completely remove our demo from Your App, just run:
+
+```
+$ npm run remove-demo
+
+$ yarn run remove-demo
+```
+
+It will remove demo directory from your project and generate a boilerplate for your app. Then run the app in development mode.
+
+```
+$ npm start
+
+$ yarn start
+```
+
+<p align="center">
+  <a href="https://mdbootstrap.com/docs/react/getting-started/quick-start/">
+    <img width="400" src="https://mdbootstrap.com/img/React/final3.jpg">
+  </a>
+</p>
+
+**Step 6**: Copy our component's code to your project and compose your website. And yes, it's that simple!
 
 # Supported browsers
 
@@ -90,10 +155,6 @@ Similarly, the latest versions of most desktop browsers are supported.
 |⠀Mac⠀|⠀Supported⠀|⠀Supported⠀|⠀N/A⠀|⠀N/⠀|⠀Supported⠀|⠀Supported⠀|
 |Windows|⠀Supported⠀|⠀Supported⠀|⠀N/A⠀|⠀Supported|⠀Supported⠀|⠀Not supported⠀|
 
-
-# Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/mdbootstrap/bootstrap-material-design/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ### Support MDB developers
