@@ -10,13 +10,13 @@
   ✔️ An impressive collection of ready to use, stunning Material Design components.
 </p>
 <p align="center">
-  ✔️ Save huge amounts of time on website/application creation using our predefined sections and templates.
+  Save huge amounts of time on website/application creation using our predefined sections and templates.
 </p>
 <p align="center">
-  ✔️ With the Premium Support all your issues will be treated as a priority and our team will make their fullest efforts to help you with any questions related to MDB.
+  With the Premium Support all your issues will be treated as a priority and our team will make their fullest efforts to help you with any questions related to MDB.
     </p>
 <p align="center">
-  ✔️ An private GitLab account dedicated to MDB Pro users.
+  An private GitLab account dedicated to MDB Pro users.
 </p>
 
 <p align="center">
@@ -82,6 +82,7 @@ $ npm install -g create-react-app
 
 $ yarn global add create-react-app
 ```
+
 ## New project:
 
 **Step 1**: If you haven't downloaded MDB React package yet, go to <a href="https://mdbootstrap.com/docs/react/getting-started/download/">Getting Started</a> page and download it now.
