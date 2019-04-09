@@ -58,10 +58,6 @@ ________
 
 
 # Quick Start
-
- - [Written Tutorial](https://mdbootstrap.com/docs/react/getting-started/quick-start/)
-
- - [Video Tutorial](https://www.youtube.com/watch?v=cXTThxoywNQ&t=9s)
  
 Before you use MDB React make sure you have installed Create React App package. This package contains development environment that will speed up the development process. Node 6 or higher is required.
 
@@ -129,6 +125,75 @@ $ yarn start
 </p>
 
 **Step 6**: Copy our component's code to your project and compose your website. And yes, it's that simple!
+
+## Existing project
+
+**Step 1**:  Create new react project using the command:
+
+`create-react-app myApp`
+
+**Step 2**:  cd myApp
+
+**Step 3**:  GitLab installation
+
+1. Visit https://git.mdbootstrap.com and log in, if you are PRO user and do not have an account yet, please request one contacting us: contact@mdbootstrap.com
+2. From top right corner click at your avatar and choose "Setting → Access Tokens"
+3. Provide a Name for your token and choose "api" from scopes. Then click "Create personal access token"
+
+<p align="center">
+  <a href="https://mdbootstrap.com/docs/react/getting-started/quick-start/">
+    <img width="400" src="https://mdbootstrap.com/img/React/add_token.png">
+  </a>
+</p>
+
+4. Once your token will be generated make sure to copy it and store in safe place. You won't be able to access it again. **In case of lose, you will have to generate new token again**.
+
+<p align="center">
+  <a href="https://mdbootstrap.com/docs/react/getting-started/quick-start/">
+    <img width="400" src="https://mdbootstrap.com/img/React/token.png">
+  </a>
+</p>
+
+5. Within existing React project run:
+
+```
+$ npm install git+https://oauth2:YOUR_TOKEN_GOES_HERE@git.mdbootstrap.com/mdb/react/re-pro.git --save
+
+$ yarn add git+https://oauth2:YOUR_TOKEN_GOES_HERE@git.mdbootstrap.com/mdb/react/re-pro.git
+```
+
+The link structure: `"git+https://oauth2: + access_token + @ + repo address" .`
+
+If you don't have existing npm project you should create it first (`yarn init` / `npm init`).
+
+Alternatively, you can update your dependencies in package.json like below:
+
+```
+"dependencies": {
+  "mdbreact": "git+https://oauth2:YOUR_TOKEN_GOES_HERE@git.mdbootstrap.com/mdb/react/re-pro.git"
+}
+```
+Then run `yarn` or `npm` install to install the dependencies
+
+**Step 4**:  Import style files into the src/index.js before the `App.js` file import:
+
+```
+import '@fortawesome/fontawesome-free/css/all.min.css';
+import 'bootstrap-css-only/css/bootstrap.min.css';
+import 'mdbreact/dist/css/mdb.css';
+```
+
+**Step 5**:  Run your app
+
+```
+$ npm run start
+
+$ yarn start
+```
+
+ - [Written Tutorial](https://mdbootstrap.com/docs/react/getting-started/quick-start/)
+
+ - [Video Tutorial](https://www.youtube.com/watch?v=cXTThxoywNQ&t=9s)
 
 # Supported browsers
 
