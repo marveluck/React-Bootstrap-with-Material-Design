@@ -7,16 +7,16 @@
 <h1 align="center">React Bootstrap with Material Design PRO</h1>
 
 <p align="center">
-  ✔️<b>4500+</b> Premium Components - An impressive collection of ready to use, stunning Material Design components.
+  ✔️ An impressive collection of ready to use, stunning Material Design components.
 </p>
 <p align="center">
-  ✔️<b>50+ Pro sections & ready to use templates plugins.</b> - Save huge amounts of time on website/application creation using our predefined sections and templates.
+  ✔️ Save huge amounts of time on website/application creation using our predefined sections and templates.
 </p>
 <p align="center">
-  ✔️<b>Premium support</b> - With the Premium Support all your issues will be treated as a priority and our team will make their fullest efforts to help you with any questions related to MDB.
+  ✔️ With the Premium Support all your issues will be treated as a priority and our team will make their fullest efforts to help you with any questions related to MDB.
     </p>
 <p align="center">
-  ✔️<b>Access to MDB Pro repository</b> - An private GitLab account dedicated to MDB Pro users.
+  ✔️ An private GitLab account dedicated to MDB Pro users.
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ ________
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 22 Pro Plugins⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 2 Basic Plugins⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️| ✔️ |
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Premium Support⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ GitLab account and MDB Pro repository access⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀GitLab account and MDB Pro repository access⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
 
 
 ________
@@ -60,7 +60,7 @@ ________
 
 # Useful Links
 
-* 5 min Quick Start - https://www.youtube.com/watch?v=ccrJUi39ElQ
+* 5 min Quick Start - https://www.youtube.com/watch?v=ozXDtSi5ByM
 * ChangeLog - https://mdbootstrap.com/docs/react/changelog/
 * Documentation - https://mdbootstrap.com/docs/react/
 * Product page - https://mdbootstrap.com/products/react-ui-kit/
@@ -68,7 +68,7 @@ ________
 
 # PRO Technologies
 
-[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/products/angular-ui-kit/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/jquery.png"/>](https://mdbootstrap.com/products/jquery-ui-kit/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/products/vue-ui-kit/)
+[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/products/angular-ui-kit/)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/jquery.png"/>](https://mdbootstrap.com/products/jquery-ui-kit/)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/products/vue-ui-kit/)
 
 
 # Quick Start
