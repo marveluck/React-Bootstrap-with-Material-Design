@@ -1,22 +1,15 @@
-<p align="center">
-  <a href="http://mdbootstrap.com/docs/react/">
-    <img width="500" src="https://mdbootstrap.com/img/Marketing/general/logo/huge/mdb-react.png">
-  </a>
-</p>
+<a href="http://mdbootstrap.com/docs/react/getting-started/download/">
+  <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-react.png">
+</a>
 
-<h1 align="center">React Bootstrap with Material Design</h1>
+# React Bootstrap with Material Design
 
-<p align="center">
+
 Built with <b>React and Bootstrap 4</b>. Absolutely <b>no jQuery</b>.
-</p>
 
-<p align="center">
 <b>400+</b> material UI elements, <b>600+</b> material icons, <b>74</b> CSS animations, SASS files and many more.
-</p>
 
-<p align="center">
 All fully responsive. All compatible with different browsers.
-</p>
 
 <p align="center">
   <a href="https://npmcharts.com/compare/mdbreact?minimal=true"><img src="https://img.shields.io/npm/dm/mdbreact.svg" alt="Downloads"></a>
@@ -33,25 +26,11 @@ All fully responsive. All compatible with different browsers.
 
 ---
 
-## Table of Contents
+# More Web Development Technologies
 
-- [Other Technologies](#other-technologies)
-- [Demo](#demo)
-- [Version](#version)
-- [Quick start](#quick-start)
-- [Available commands](#available-commands)
-- [How to install MDB via npm](#how-to-install-mdb-via-npm)
-- [Supported Browsers](#supported-browsers)
-- [Documentation](#documentation)
-- [Pro version](#pro-version)
-- [Highlights](#highlights)
-- [Useful Links](#useful-links)
-- [Social Media](#social-media)
-
-# Other Technologies
-
-[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/jquery.png"/>](https://mdbootstrap.com/docs/jquery/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/docs/react/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/docs/vue/)
-
+|⠀ MDBootstrap Angular⠀ |⠀    MDBootstrap jQuery ⠀­  |⠀ ­   MDBootstrap Vue⠀  ­ | ­­ MDBootstrap 5   ­­|
+| --------------- | ------------------ | ------------- | ------------- |
+| ­­­ ­­­ ­­­ ­­­ ­­­ ­­­ ­­­ ­­­ ­­­­   [![MDB Angular](https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png")](https://mdbootstrap.com/docs/angular/) ­­ ­­­­ ­­­ |⠀   ­­ ­­­ ­­­ ­­­ ­­­ ­­­   [![MDB jQuery](https://mdbootstrap.com/img/Marketing/general/logo/small/jquery.png)](https://mdbootstrap.com/docs/react/)  ⠀­­ ­­­ ­­­ ­­­ ­­­ ­­­  |⠀ ­­ ­­­ ­­­ ­­­ ­­­ ­­­   [![MDB Vue](https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png)](https://mdbootstrap.com/docs/vue/)    ­­ ­­­ ­­­ ­­­ ­­­ ­­­   |    ­­­ ­­­ ­­­ ­­­ ­­­ ­­­      [![MDB 5](https://mdbootstrap.com/wp-content/uploads/2020/08/bootstrap5-logo.png)](https://mdbootstrap.com/docs/standard/)   ⠀   ­­ ­­­ ­­­ ­­­ ­­­ ­­­
 # Demo:
 
 [Main demo](https://mdbootstrap.com/docs/react/components/demo/)
