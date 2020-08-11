@@ -8,12 +8,25 @@
 
 Built with <b>React and Bootstrap 4</b>. Absolutely <b>no jQuery</b>. <b>400+</b> material UI elements, <b>600+</b> material icons, <b>74</b> CSS animations, SASS files and many more. All fully responsive. All compatible with different browsers.
 
-
-<p align="center">
-  <a href="https://mdbootstrap.com/docs/react/" target="_blank">
-    <img width="700" src="https://mdbootstrap.com/img/Marketing/products/react/mdb-free.jpg" alt="logo">
-  </a>
-</p>
+Trusted by <b>2 000 000+</b> developers & designers. Used by companies like
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://mdbootstrap.com/img/logo/brands/nike.png" style="width: 10px;"></td>
+      <td><img src="https://mdbootstrap.com/img/logo/brands/amazon.png" style="width: 10px;"></td>
+      <td><img src="https://mdbootstrap.com/img/logo/brands/sony.png" style="width: 10px;"></td>
+      <td><img src="https://mdbootstrap.com/img/logo/brands/samsung.png"  style="height: 40px">
+      <td><img src="https://mdbootstrap.com/img/logo/brands/airbus.png" style="height: 40px">
+      <td><img src="https://mdbootstrap.com/img/logo/brands/yahoo.png"  style="height: 40px">
+      <td><img src="https://mdbootstrap.com/img/logo/brands/deloitte.png" style="height: 40px"></div>
+      <td><img src="https://mdbootstrap.com/img/logo/brands/ge.png" style="height: 40px">
+      <td><img src="https://mdbootstrap.com/img/logo/brands/kpmg.png" style="height: 40px">
+      <td><img src="https://mdbootstrap.com/img/logo/brands/unity.png" style="height: 40px">
+      <td><img src="https://mdbootstrap.com/img/logo/brands/ikea.png" style="max-height: 40px">
+      <td><img src="https://mdbootstrap.com/img/logo/brands/aegon.png" style="height: 40px">
+    </tr>
+   </tbody>
+</table>
 
 ---
 
@@ -26,10 +39,13 @@ Built with <b>React and Bootstrap 4</b>. Absolutely <b>no jQuery</b>. <b>400+</b
 
 [Main demo](https://mdbootstrap.com/docs/react/components/demo/)
 
-# Version:
 
-- MDBReact 4.27.0
-- React 16.12.0
+
+
+ <a href="https://youtu.be/ozXDtSi5ByM"></a>
+
+
+
 
 # Quick start
 
