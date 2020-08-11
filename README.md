@@ -37,6 +37,14 @@ Trusted by <b>2 000 000+</b> developers & designers. Used by companies like
 | ­­­ ­­­ ­­­ ­­­ ­­­ ­­­ ­­­ ­­­ ­­­­   [![MDB Angular](https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png")](https://mdbootstrap.com/docs/angular/) ­­ ­­­­ ­­­ |⠀   ­­ ­­­ ­­­ ­­­ ­­­ ­­­   [![MDB jQuery](https://mdbootstrap.com/img/Marketing/general/logo/small/jquery.png)](https://mdbootstrap.com/docs/react/)  ⠀­­ ­­­ ­­­ ­­­ ­­­ ­­­  |⠀ ­­ ­­­ ­­­ ­­­ ­­­ ­­­   [![MDB Vue](https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png)](https://mdbootstrap.com/docs/vue/)    ­­ ­­­ ­­­ ­­­ ­­­ ­­­   |    ­­­ ­­­ ­­­ ­­­ ­­­ ­­­      [![MDB 5](https://mdbootstrap.com/wp-content/uploads/2020/08/bootstrap5-logo.png)](https://mdbootstrap.com/docs/standard/)   ⠀   ­­ ­­­ ­­­ ­­­ ­­­ ­­­
 
 
+# Quick Start 
+
+ <a href="https://youtu.be/ozXDtSi5ByM"><img src="https://mdbootstrap.com/wp-content/uploads/2020/08/react-play-yt.png"></a>
+
+According to your preference, you can follow a [video](https://youtu.be/ozXDtSi5ByM) or [written version](https://mdbootstrap.com/docs/react/getting-started/quick-start/)
+
+Also, you can install MDB Free using NPM [installation guide](https://mdbootstrap.com/docs/react/getting-started/quick-start/)
+
 # MDB CLI - the fastest way to create and host MDB projects
 
 <table>
@@ -66,30 +74,21 @@ Trusted by <b>2 000 000+</b> developers & designers. Used by companies like
   </tbody>
 </table>
 
-
-# Quick Start 
-
- <a href="https://youtu.be/ozXDtSi5ByM"><img src="https://mdbootstrap.com/wp-content/uploads/2020/08/react-play-yt.png"></a>
-
-According to your preference, you can follow a [video](https://youtu.be/ozXDtSi5ByM) or [written version](https://mdbootstrap.com/docs/react/getting-started/quick-start/)
-
-Also, you can install MDB Free using NPM [installation guide](https://mdbootstrap.com/docs/react/getting-started/quick-start/)
-
-
 # Demo
 
 ### Carousel
 
-<p>A slideshow component for cycling through elements—images or slides of text—like a carousel.</p>
+<p>React Bootstrap carousel is responsive and interactive slideshow which is created for presenting content, especially images and videos.</p>
 
-
-<a href="https://mdbootstrap.com/docs/react/javascript/carousel/" alt="Bootstrap 5" rel="dofollow">
+<a href="https://mdbootstrap.com/docs/react/advanced/carousel/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
-    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-carousel.gif">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-carousel-mask.gif">
   </p>
 </a>
 
 ### Loader / Spinner
+
+<p>React Bootstrap loader is animation that is used to keep visitors entertained while the page is still loading, which helps to increase the user experience.</p>
 
 <a href="https://mdbootstrap.com/docs/react/components/spinners/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
@@ -117,7 +116,7 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
 
 ### Buttons
 
-<p>You can use Bootstrap’s custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more...</p>
+<p>React Bootstrap buttons are components which are triggering a desirable user interaction. Easy to customize in terms of size, shape, and color.</p>
 
 <a href="https://mdbootstrap.com/docs/react/components/buttons/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
@@ -133,7 +132,7 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
 
 ### Cards
 
-<p>Bootstrap cards are components which display content built of different elements with characteristic shadows, depth and hover effects.</p>
+<p>React Bootstrap cards are components which display content build of different elements with characteristic shadows, depth and hover effects.</p>
 
 <a href="https://mdbootstrap.com/docs/react/components/cards/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
@@ -156,7 +155,7 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
 
 ### Alerts 
 
-<p>Bootstrap alerts are feedback messages that are displayed after specific actions performed by the user. The length of the text is unlimited.</p>
+<p>Bootstrap alerts are feedback messages which are displayed after specific actions preceded by the user. Length of the text is not limited.</p>
 
 <a href="https://mdbootstrap.com/docs/react/components/cards/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
@@ -166,7 +165,7 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
 
 ### Chart
 
-<p>Bootstrap alerts are feedback messages that are displayed after specific actions performed by the user. The length of the text is unlimited.</p>
+<p>React Bootstrap charts are graphical representations of data. Charts come in different sizes and shapes: bar, line, pie, radar, polar and more.</p>
 
 <a href="https://mdbootstrap.com/docs/react/advanced/charts/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
@@ -182,7 +181,7 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
 
 ### Hamburger Menu
 
-<p>Bootstrap alerts are feedback messages that are displayed after specific actions performed by the user. The length of the text is unlimited.</p>
+<p>Bootstrap Hamburger menu is a navigation with additional hamburger looks-like icon which activates hidden menu elements in Navbar or Sidenav.</p>
 
 <a href="https://mdbootstrap.com/docs/react/navigation/hamburger-menu/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
@@ -202,7 +201,7 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
 
 ### Sidenav
 
-<p>Bootstrap's sidenav is a vertical navigation component which apart from traditional, text links, might embed icons, dropdowns, avatars or search forms.</p>
+<p>React Bootstrap sidenav is a vertical navigation component which apart from traditional, text links, might embed icons, dropdowns, avatars or search forms.</p>
 
 <a href="https://mdbootstrap.com/docs/react/navigation/sidenav/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
@@ -212,7 +211,7 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
 
 ### Modal
 
-<p>Use MDB modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content.</p>
+<p>React Bootstrap modal is lightweight, but powerful & multipurpose popup. Learn how to manipulate size, styles & position. Multiple examples and detailed tutorial.</p>
 
 <a href="https://mdbootstrap.com/docs/react/modals/basic/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
@@ -245,77 +244,24 @@ Similarly, the latest versions of most desktop browsers are supported.
 |   Mac   |                                                                                                   Supported                                                                                                   |                                                                                                     Supported                                                                                                     |                                                                                                           N/A                                                                                                            |                                                                                                            N/A                                                                                                             |                                                                                                 Supported                                                                                                 |                                                                                                   Supported                                                                                                   |
 | Windows |                                                                                                   Supported                                                                                                   |                                                                                                     Supported                                                                                                     |                                                                                                           N/A                                                                                                            |                                                                                                         Supported                                                                                                          |                                                                                                 Supported                                                                                                 |                                                                                                 Not supported                                                                                                 |
 
-# Documentation:
 
-[Huge, detailed documentation avilable online](http://mdbootstrap.com/docs/react/)
+## Useful resources
 
-# PRO version:
+Here you'll find more useful resources, like [Getting Started](https://mdbootstrap.com/docs/react/getting-started/download/), [Freebies](https://mdbootstrap.com/freebies/), [Premium Templates](https://mdbootstrap.com/templates/) & [snippet editor](https://mdbootstrap.com/snippets/)
 
-[React Bootstrap with Material Design PRO](https://mdbootstrap.com/products/react-ui-kit/)
+## Connect with us on
 
-# Highlights:
+[Twitter](https://twitter.com/MDBootstrap) | [Facebook](https://www.facebook.com/mdbootstrap) | [Pinterest](https://pl.pinterest.com/mdbootstrap) | [Dribbble](https://dribbble.com/mdbootstrap) | [LinkedIn](https://www.linkedin.com/company/material-design-for-bootstrap) | [YouTube](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
 
-**Bootstrap 4**
-Up-to-date with the latest standards of Bootstrap 4 and all the best it has to offer.
-
-**Detailed documentation**
-Intuitive and user-friendly documentation, created with a copy-paste approach.
-
-**No jQuery**
-Writing you code with pure React is now quicker, easier, and cleaner.
-
-**Cross-browser compatibility**
-Works perfectly with Chrome, Firefox, Safari, Opera and Microsoft Edge.
-
-**Frequent updates**
-Expect any bugs being fixed in a matter of days.
-
-**Active community**
-MDB is broadly used by professionals on multiple levels, who are ready to aid you.
-
-**Useful helpers**
-Reduce the frequency of highly repetitive declarations in your CSS.
-
-**Technical support**
-Every day we help our users with their issues and problems.
-
-**SASS files**
-Thought-out .scss files come in a compile-ready form.
-
-**Flexbox**
-Full support of Flexbox layout system lets you forget about alignment issues.
-
-### Support MDB developers
+## Support MDB developers
 
 - Star our GitHub repo
 - Create pull requests, submit bugs, suggest new features or documentation updates
 - Follow us on [Twitter](https://twitter.com/mdbootstrap)
 - Like our page on [Facebook](https://www.facebook.com/mdbootstrap)
 
-A big ❤️ **thank you to all our users** ❤️ who are working with us to improve the software. We wouldn't be where we are without you.
+A BIG ❤️ **thank you to all our users** ❤️ who are working with us to improve the software. We wouldn't be where we are without you.
 
-# Useful Links:
+## PRO version:
 
-[Getting started](https://mdbootstrap.com/docs/react/getting-started/download/)
-
-[Quick Start](https://mdbootstrap.com/docs/react/getting-started/quick-start/)
-
-[Changelog](https://mdbootstrap.com/docs/react/changelog/)
-
-# Social Media:
-
-[Twitter](https://twitter.com/MDBootstrap)
-
-[Facebook](https://www.facebook.com/mdbootstrap)
-
-[Pinterest](https://pl.pinterest.com/mdbootstrap)
-
-[Google+](https://plus.google.com/u/0/b/107863090883699620484/+Mdbootstrap/posts)
-
-[Dribbble](https://dribbble.com/mdbootstrap)
-
-[LinkedIn](https://www.linkedin.com/company/material-design-for-bootstrap)
-
-## Contact:
-
-contact@mdbootstrap.com
+[React Bootstrap with Material Design PRO](https://mdbootstrap.com/pricing/react/pro/)
