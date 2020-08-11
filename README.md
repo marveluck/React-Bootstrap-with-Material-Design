@@ -1,5 +1,5 @@
 <a href="http://mdbootstrap.com/docs/react/getting-started/download/">
-  <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-react.png">
+  <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-react2.png">
 </a>
 
 # React Bootstrap with Material Design
