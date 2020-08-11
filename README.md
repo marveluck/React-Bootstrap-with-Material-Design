@@ -35,59 +35,190 @@ Trusted by <b>2 000 000+</b> developers & designers. Used by companies like
 |⠀ MDBootstrap Angular⠀ |⠀    MDBootstrap jQuery ⠀­  |⠀ ­   MDBootstrap Vue⠀  ­ | ­­ MDBootstrap 5   ­­|
 | --------------- | ------------------ | ------------- | ------------- |
 | ­­­ ­­­ ­­­ ­­­ ­­­ ­­­ ­­­ ­­­ ­­­­   [![MDB Angular](https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png")](https://mdbootstrap.com/docs/angular/) ­­ ­­­­ ­­­ |⠀   ­­ ­­­ ­­­ ­­­ ­­­ ­­­   [![MDB jQuery](https://mdbootstrap.com/img/Marketing/general/logo/small/jquery.png)](https://mdbootstrap.com/docs/react/)  ⠀­­ ­­­ ­­­ ­­­ ­­­ ­­­  |⠀ ­­ ­­­ ­­­ ­­­ ­­­ ­­­   [![MDB Vue](https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png)](https://mdbootstrap.com/docs/vue/)    ­­ ­­­ ­­­ ­­­ ­­­ ­­­   |    ­­­ ­­­ ­­­ ­­­ ­­­ ­­­      [![MDB 5](https://mdbootstrap.com/wp-content/uploads/2020/08/bootstrap5-logo.png)](https://mdbootstrap.com/docs/standard/)   ⠀   ­­ ­­­ ­­­ ­­­ ­­­ ­­­
-# Demo:
-
-[Main demo](https://mdbootstrap.com/docs/react/components/demo/)
 
 
+# MDB CLI - the fastest way to create and host MDB projects
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://mdbootstrap.com/cli/">
+          <img
+            src="https://mdbootstrap.com/img/Marketing/products/cli/cli-free.jpg"
+            style="width: 60px;">
+        </a>
+      </td>
+      <td align="left" valign="top">
+        <b>Initiate</b>
+        <br />
+        With MDB CLI you can start a new project within seconds! Use <b><code>mdb init</code></b> command and start with a pre-set configuration!
+      </td>
+      <td align="left" valign="top">
+        <b>Publish and host</b>
+        <br />
+        Make your project visible with <b><code>mdb publish</code></b>, no need to store your code, simply get the link and share it with the world!
+      </td>
+        <td align="center">
+          <b><a href="https://mdbootstrap.com/cli/">Get started</a> </p>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
 
- <a href="https://youtu.be/ozXDtSi5ByM"></a>
+# Quick Start 
+
+ <a href="https://youtu.be/ozXDtSi5ByM"><img src="https://mdbootstrap.com/wp-content/uploads/2020/08/react-play-yt.png"></a>
+
+According to your preference, you can follow a [video](https://youtu.be/ozXDtSi5ByM) or [written version](https://mdbootstrap.com/docs/react/getting-started/quick-start/)
+
+Also, you can install MDB Free using NPM [installation guide](https://mdbootstrap.com/docs/react/getting-started/quick-start/)
 
 
+# Demo
+
+### Carousel
+
+<p>A slideshow component for cycling through elements—images or slides of text—like a carousel.</p>
 
 
-# Quick start
+<a href="https://mdbootstrap.com/docs/react/javascript/carousel/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-carousel.gif">
+  </p>
+</a>
 
-- Clone following repo:
+### Loader / Spinner
 
-```bash
-git clone https://github.com/mdbootstrap/react-bootstrap-with-material-design .
-```
+<a href="https://mdbootstrap.com/docs/react/components/spinners/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-loader.gif">
+  </p>
+</a>
 
-note "." at the end. It will clone files directly into current folder.
+<a href="https://mdbootstrap.com/docs/react/components/spinners/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-color-spinners.gif">
+  </p>
+</a>
 
-- Run `npm i`
-- Run `npm start`
-- Voilà! Open browser and visit http://localhost:3000
+<a href="https://mdbootstrap.com/docs/react/components/spinners/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-multicolor.gif">
+  </p>
+</a>
 
-Now you can navigate to [our documentation](http://mdbootstrap.com/docs/react/), pick any component and place within your project.
+<a href="https://mdbootstrap.com/docs/react/components/spinners/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-crazyloader.gif">
+  </p>
+</a>
 
-# Available commands
+### Buttons
 
-- npm start - runs the app in development mode.
-- npm run remove-demo - remove demo directory from your project and generate a boilerplate for your app
-- npm run build - builds the app for production to the build folder.
-- npm test - runs the test watcher in an interactive mode.
+<p>You can use Bootstrap’s custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more...</p>
 
-# How to install MDB via npm:
+<a href="https://mdbootstrap.com/docs/react/components/buttons/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-buttons.gif">
+  </p>
+</a>
 
-- create new project `create-react-app myApp`
-- `cd myApp`
-- `npm install --save mdbreact`
-- Import style files into the src/index.js before the App.js file:
+<a href="https://mdbootstrap.com/docs/react/components/buttons/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-social-buttons.png">
+  </p>
+</a>
 
-```javascript
-import '@fortawesome/fontawesome-free/css/all.min.css';
-import 'bootstrap-css-only/css/bootstrap.min.css';
-import 'mdbreact/dist/css/mdb.css';
-```
+### Cards
 
-### Run server
+<p>Bootstrap cards are components which display content built of different elements with characteristic shadows, depth and hover effects.</p>
 
-```bash
-npm start
-```
+<a href="https://mdbootstrap.com/docs/react/components/cards/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-cards-cascading.png">
+  </p>
+</a>
+
+<a href="https://mdbootstrap.com/docs/react/components/cards/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-fancy-cards.gif">
+  </p>
+</a>
+
+
+<a href="https://mdbootstrap.com/docs/react/components/cards/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-cards-overlay.png">
+  </p>
+</a>
+
+### Alerts 
+
+<p>Bootstrap alerts are feedback messages that are displayed after specific actions performed by the user. The length of the text is unlimited.</p>
+
+<a href="https://mdbootstrap.com/docs/react/components/cards/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-alerts.png">
+  </p>
+</a>
+
+### Chart
+
+<p>Bootstrap alerts are feedback messages that are displayed after specific actions performed by the user. The length of the text is unlimited.</p>
+
+<a href="https://mdbootstrap.com/docs/react/advanced/charts/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-charts.gif">
+  </p>
+</a>
+
+<a href="https://mdbootstrap.com/docs/react/advanced/charts/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-charts-bar.gif">
+  </p>
+</a>
+
+### Hamburger Menu
+
+<p>Bootstrap alerts are feedback messages that are displayed after specific actions performed by the user. The length of the text is unlimited.</p>
+
+<a href="https://mdbootstrap.com/docs/react/navigation/hamburger-menu/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-hamburgermenu.gif">
+  </p>
+</a>
+
+### Footer
+
+<p>A footer is an additional navigation component. It can hold links, buttons, company info, copyrights, forms, and many other elements.</p>
+
+<a href="https://mdbootstrap.com/docs/react/navigation/footer/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-footer.png">
+  </p>
+</a>
+
+### Sidenav
+
+<p>Bootstrap's sidenav is a vertical navigation component which apart from traditional, text links, might embed icons, dropdowns, avatars or search forms.</p>
+
+<a href="https://mdbootstrap.com/docs/react/navigation/sidenav/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-sidenav.gif">
+  </p>
+</a>
+
+### Modal
+
+<p>Use MDB modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content.</p>
+
+<a href="https://mdbootstrap.com/docs/react/modals/basic/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-modal.gif">
+  </p>
+</a>
 
 # Supported browsers
 
